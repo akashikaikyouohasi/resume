@@ -1,4 +1,7 @@
-# { name } resume
+# Yusuke's resume
+公開用の職務経歴書です。
+
+リポジトリの参考記事：[GitHubの機能をフルに使って職務経歴書の継続的インテグレーションを実現する](https://zenn.dev/ryo_kawamata/articles/resume-on-github)
 
 ## DATA
 
