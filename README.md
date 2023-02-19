@@ -1,8 +1,9 @@
 # { name } resume
 
-## Sample
+## DATA
 
-https://github.com/kawamataryo/resume
+- [GitHub Pages](https://akashikaikyouohasi.github.io/resume/)
+- [File](https://github.com/akashikaikyouohasi/resume/blob/master/docs/README.md)
 
 ## Features
 
