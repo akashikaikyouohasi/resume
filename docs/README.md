@@ -25,11 +25,11 @@
 - AWS上でのインフラ構築・運用監視
 - Linuxサーバ設計・構築・構築自動化
 - IaCコード開発
-    - AWS上にリソースを構築するために、Terraformコードの開発経験があります。
+    - AWS上にリソースを構築するために、Terraformコードの開発経験があります
 - 運用自動化
-    - AWSではAutomationを利用して脆弱性対応自動化を行なったりしていました。
+    - AWSではAutomationを利用して脆弱性対応自動化を行なったりしていました
 - Pythonによるバッチ作成
-    - pandasで統計データの集計用のバッチを作成したことがあります。
+    - pandasで統計データの集計用のバッチを作成したことがあります
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### OS
 - Amazon Linux2
-- RedHat
+- Red Hat
 
 ### Middleware
 - Apache
