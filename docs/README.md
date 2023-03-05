@@ -129,7 +129,7 @@
 ### 個人開発
 - [aws_container_hands_on](https://github.com/akashikaikyouohasi/aws_container_hands_on)
     - [AWSコンテナ設計・構築[本格]入門](https://amzn.asia/d/ixSWxbF)を、コンソール画面ではなくTerraformでやってみたもの
-    - 2023年2月時点で、進捗8割
+    - 2023年2月時点で、5-3章まで完了
 - [spa-by-terraform](https://github.com/akashikaikyouohasi/spa-by-terraform)
     - SPA (Single Page Application) をAWS上にTerraformでイミュータブルに構築
     - SPAはログインしてプロフィールを表示できるだけ
