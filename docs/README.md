@@ -101,7 +101,7 @@ Ansibleによるサーバ構築効率化や、数人のメンバーのタスク�
     - [AWSコンテナ設計・構築[本格]入門](https://amzn.asia/d/ixSWxbF)を、コンソール画面ではなくTerraformでやってみたもの
     - 2023年2月時点で、進捗8割
 - [spa-by-terraform](https://github.com/akashikaikyouohasi/spa-by-terraform)
-    - SPA(Single Page Application)をAWS上にTerraformでイミュータブルに構築
+    - SPA (Single Page Application) をAWS上にTerraformでイミュータブルに構築
     - SPAはログインしてプロフィールを表示できるだけ
     - Reactで作成し、Auth0を利用してTwitter経由でログインできる
     - インフラはAWSで構築。基本的にはTerraformを流すだけでできる（Auth0はTerraformの範囲外）
@@ -111,8 +111,8 @@ Ansibleによるサーバ構築効率化や、数人のメンバーのタスク�
 - [個人ブログ:Techまとめ](https://anikitech.com/)
     - 1500PV/月程度
     - 2023年2月現在　13記事
-- [CloudTech](https://kws-cloud-tech.com/) AWS試験問題作成プロジェクト
-    - 2022年12月〜2022年2月（予定）
+- [CloudTech](https://kws-cloud-tech.com/)：AWS試験問題作成プロジェクト
+    - 2022年12月〜2022年2月
     - SOAの問題追加プロジェクトにて、SOAチームリーダー兼レビュアー兼作成
 - [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻](https://www.amazon.co.jp/AWS%E8%AA%8D%E5%AE%9A%E8%B3%87%E6%A0%BC-%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A4%E3%83%88%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E5%90%88%E6%A0%BC%E3%81%B8%E5%B0%8E%E3%81%8F%E8%99%8E%E3%81%AE%E5%B7%BB-CloudTech%E6%9B%B8%E7%B1%8D%E4%BD%9C%E6%88%90%E5%A7%94%E5%93%A1%E4%BC%9A-ebook/dp/B0BCPNZ9GJ/ref=sr_1_10?keywords=aws+%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88+%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A4%E3%83%88&qid=1676799670&sprefix=AWS+%E3%82%BD%E3%83%AA%E3%83%A5%2Caps%2C171&sr=8-10)
     - 2022年8月31日出版
