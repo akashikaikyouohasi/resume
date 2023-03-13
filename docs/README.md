@@ -144,6 +144,7 @@
 - [CloudTech](https://kws-cloud-tech.com/)：AWS試験問題作成プロジェクト
     - 2022年12月〜2022年2月
     - SOAの問題追加プロジェクトにて、SOAチームリーダー兼レビュアー兼作成
+    - 参考：[謝辞ページ](https://kws-cloud-tech.com/aws-certificate-thanks)
 - [AWS認定資格 ソリューションアーキテクトアソシエイトの教科書: 合格へ導く虎の巻](https://www.amazon.co.jp/AWS%E8%AA%8D%E5%AE%9A%E8%B3%87%E6%A0%BC-%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A4%E3%83%88%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E5%90%88%E6%A0%BC%E3%81%B8%E5%B0%8E%E3%81%8F%E8%99%8E%E3%81%AE%E5%B7%BB-CloudTech%E6%9B%B8%E7%B1%8D%E4%BD%9C%E6%88%90%E5%A7%94%E5%93%A1%E4%BC%9A-ebook/dp/B0BCPNZ9GJ/ref=sr_1_10?keywords=aws+%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88+%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A4%E3%83%88&qid=1676799670&sprefix=AWS+%E3%82%BD%E3%83%AA%E3%83%A5%2Caps%2C171&sr=8-10)
     - 2022年8月31日出版
     - サンプル問題にて、問題と解説と図の作成の一部を担当
